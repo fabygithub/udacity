@@ -3,4 +3,22 @@ create a avd
 nexus 5x x86 64 running nougat
 
 device
+create virtual device
+nexus 5x  5,2"
+nougat 24  x86_64 android 7.0
+
+next
+finish
+
+launch avd emulator
+esperar que aparesca la pantalla de inicio
+launch app
+
+
+
+
+
+
+
+
 
